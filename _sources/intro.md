@@ -1,7 +1,6 @@
-# Selamat Datang di Mata Kuliah Komputasi Aljabar Linier
+# Sistem Persamaan Linier
 
-Halo semuanya, aku Rifda Nahariyah Ramadhani. Selamat datang di Mata Kuliah Komputasi Aljabar Linier!
-"Setiap langkah kecil dalam mempelajari aljabar linier adalah langkah besar menuju pemahaman yang lebih dalam tentang dunia yang kita jalani. Mungkin kadang terlihat rumit, tapi jangan takut! Setiap tantangan yang kita hadapi dalam mata kuliah ini adalah kesempatan untuk mengasah kemampuan kita."
+Sistem persamaan linier adalah kumpulan dua atau lebih persamaan yang melibatkan variabel-variabel yang sama, dan setiap persamaan dalam sistem tersebut membentuk suatu garis lurus jika digambarkan dalam grafik. Tujuan dari sistem persamaan linier adalah mencari nilai dari variabel-variabel yang memenuhi semua persamaan dalam sistem tersebut secara bersamaan. 
 
-```{tableofcontents}
-```
+Misalnya, jika ada dua persamaan yang melibatkan dua variabel, sistem ini mencari nilai yang tepat untuk kedua variabel tersebut, sehingga kedua persamaan tersebut dipenuhi. Penyelesaian dari sistem persamaan linier bisa berupa satu titik pertemuan antara dua garis dalam grafik, yang menunjukkan nilai-nilai variabel yang tepat.
+
